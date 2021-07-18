@@ -9,8 +9,6 @@ while(1){
     if(y>x){
         break;
     }
-  
-   
 }
 for(i=x;i<=y;i++){
     sum=sum+i;
